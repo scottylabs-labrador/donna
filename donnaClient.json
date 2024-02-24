@@ -1,0 +1,13 @@
+{
+    "installed": {
+        "client_id": "1037334647032-j2smujlre8b2mba0tfe48pkdrmrhtk28.apps.googleusercontent.com",
+        "project_id": "precise-window-414620",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "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",
+        "redirect_uris": [
+            "http://localhost"
+        ]
+    }
+}
