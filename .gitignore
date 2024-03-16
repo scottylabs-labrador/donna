@@ -37,3 +37,6 @@ lerna-debug.log*
 # Python
 *.pyc
 venv/
+
+# Streamlit
+.streamlit
